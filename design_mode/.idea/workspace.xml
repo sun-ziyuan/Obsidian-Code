@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="609c6964-5ef3-43fb-b2f3-f22683f3214d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_mode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/DependenceInversion/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/DependenceInversion/improve/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/DependenceInversion/improve/DependecyPass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/DependenceInversion/improve/DependecyPass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/DependenceInversion/improve/DependecyPass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/interfaceSegreationPrinciple/InterfaceSegreation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/interfaceSegreationPrinciple/improve/InterfaceSegreation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/liskov/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/liskov/improve/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/openClosed/OpenClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/openClosed/improve/OpenClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/openClosed/improve1/OpenClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/singleResponsibliity/SingleResponsibility1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/singleResponsibliity/SingleResponsibility2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/principles/singleResponsibliity/SingleResponsibility3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/singleton/Mgr08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/Dependence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/Person3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/PersonServiceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/PersonServiceBean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ziyuan/uml/sumUp.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileIO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileIO/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileIO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileIO/src/main/java/com/ziyuan/fileTest/EsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileIO/src/main/java/com/ziyuan/fileTest/FileExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileIO/src/main/java/com/ziyuan/fileTest/FileTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../Shared/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Shared/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../Shared/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PeMdFbGeVXOpbIiSWdh8Ijl7dk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultPlantUmlFileTemplate": "UML Class",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/szy/Desktop/TestGit/design_mode/src/com/ziyuan/principles/openClosed/improve1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/szy/Desktop/TestGit/design_mode/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/ziyuan/principles/openClosed/improve1" />
+      <recent name="$PROJECT_DIR$/src/com/ziyuan/principles/openClosed/improve" />
+      <recent name="$PROJECT_DIR$/src/com/ziyuan/principles/openClosed" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.ziyuan.principles.openClosed.improve.OpenClosed">
+    <configuration name="Liskov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ziyuan.principles.liskov.Liskov" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ziyuan.principles.liskov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenClosed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ziyuan.principles.openClosed.OpenClosed" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ziyuan.principles.openClosed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ziyuan.principles.liskov.improve.Liskov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ziyuan.principles.liskov.improve.Liskov" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ziyuan.principles.liskov.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ziyuan.principles.openClosed.improve.OpenClosed (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ziyuan.principles.openClosed.improve.OpenClosed" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ziyuan.principles.openClosed.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ziyuan.principles.openClosed.improve.OpenClosed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ziyuan.principles.openClosed.improve.OpenClosed" />
+      <module name="design_mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ziyuan.principles.openClosed.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ziyuan.principles.openClosed.improve.OpenClosed" />
+        <item itemvalue="Application.com.ziyuan.principles.openClosed.improve.OpenClosed (1)" />
+        <item itemvalue="Application.OpenClosed" />
+        <item itemvalue="Application.com.ziyuan.principles.liskov.improve.Liskov" />
+        <item itemvalue="Application.Liskov" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609c6964-5ef3-43fb-b2f3-f22683f3214d" name="Changes" comment="" />
+      <created>1683813181966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683813181966</updated>
+      <workItem from="1683813184864" duration="2720000" />
+      <workItem from="1683941073322" duration="5934000" />
+      <workItem from="1684219032116" duration="21000" />
+      <workItem from="1684288401937" duration="656000" />
+      <workItem from="1684306265981" duration="5140000" />
+      <workItem from="1684388901416" duration="4052000" />
+      <workItem from="1684458782251" duration="4178000" />
+      <workItem from="1684482652060" duration="1710000" />
+      <workItem from="1684554825939" duration="934000" />
+      <workItem from="1684556104708" duration="1269000" />
+      <workItem from="1684557826777" duration="108000" />
+      <workItem from="1684557957442" duration="4791000" />
+      <workItem from="1684562963652" duration="602000" />
+      <workItem from="1684563601805" duration="1193000" />
+      <workItem from="1684564809478" duration="392000" />
+      <workItem from="1684565222720" duration="703000" />
+      <workItem from="1684566145559" duration="171000" />
+      <workItem from="1684566763416" duration="71000" />
+      <workItem from="1684568274059" duration="137000" />
+      <workItem from="1684568447524" duration="1569000" />
+      <workItem from="1684718514150" duration="884000" />
+      <workItem from="1684719551436" duration="3395000" />
+      <workItem from="1684726664250" duration="2160000" />
+      <workItem from="1684734933523" duration="231000" />
+      <workItem from="1684735249662" duration="10851000" />
+      <workItem from="1684807477998" duration="1837000" />
+      <workItem from="1684877664061" duration="487000" />
+      <workItem from="1684891051930" duration="3769000" />
+      <workItem from="1685065286405" duration="12297000" />
+      <workItem from="1685093898119" duration="1201000" />
+      <workItem from="1685171550583" duration="5323000" />
+      <workItem from="1685663126930" duration="1253000" />
+      <workItem from="1685702452810" duration="4664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ziyuan/singleton/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
